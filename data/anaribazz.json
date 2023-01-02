@@ -1,0 +1,14 @@
+{
+  "name": "Ana Ribas",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Full-Stack Web Developer skilled at HTML5 | CSS3 | JAVASCRIPT | REACT | MySQL | MongoDB",
+  "avatar": "https://github.com/anaribazz.png",
+}
+"links": [
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/anaribaz/",
+      "icon": "FaLinkedin"
+    }
+  ]
